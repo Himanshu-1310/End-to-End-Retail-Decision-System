@@ -1,3 +1,6 @@
+# End-to-End Retail Decision System
+
+
 This project delivers a comprehensive data analytics solution to help retail businesses make smarter, data-driven decisions. By leveraging SQL, Python, and Power BI, the system analyzes sales, customer, and product data to uncover actionable insights and optimize discount strategies.
 
 ## Overview
