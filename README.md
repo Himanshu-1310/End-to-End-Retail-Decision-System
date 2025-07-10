@@ -45,7 +45,7 @@ It combines robust SQL querying, Python-based analysis, and Power BI dashboards 
 - Product-Level Insights into losses and performance
 - Interactive Dashboard for stakeholders in Power BI
 
-## Power BI Dashboard Preview
+## Power BI Dashboard
 
 The Power BI dashboard visualizes year-over-year sales trends, regional performance, customer segments, and discount effectiveness.  
 
